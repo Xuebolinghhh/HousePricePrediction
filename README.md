@@ -4,7 +4,7 @@ This project is about the Hotel Price Prediction Challenge from https://www.heyw
 
 ### Data Description
 字段名           | 数据类型      | 字段描述
--------------    | -------------|
+---------:| :----- |:-----:
 数据ID	| string	| 数据的唯一ID，比如test_0，train_1024
 容纳人数 |	int|	房间可以允许住几个人
 便利设施	| string |	房间提供的便利设施描述，如是否有电视空调
